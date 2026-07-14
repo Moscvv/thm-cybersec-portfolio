@@ -97,4 +97,4 @@ The first and most critical step after gaining initial access. Key commands prac
 
 ---
 
-*Notes written for IT job portfolio — Tokyo, Japan*
+*Notes written for job portfolio *
