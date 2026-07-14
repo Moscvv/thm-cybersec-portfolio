@@ -79,4 +79,4 @@ This room focuses on **CVE-2019-18634**, a buffer overflow vulnerability in the 
 
 ---
 
-*Notes written for IT job portfolio*
+*Notes written for portfolio*
