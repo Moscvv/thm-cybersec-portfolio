@@ -2,7 +2,6 @@
 **Platform:** TryHackMe  
 **URL:** https://tryhackme.com/room/linprivesc  
 **Difficulty:** Medium  
-**Estimated Time:** 50 minutes  
 **Status:** ✅ Completed
 
 ---
