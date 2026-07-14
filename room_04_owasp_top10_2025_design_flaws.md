@@ -2,7 +2,6 @@
 **Platform:** TryHackMe  
 **URL:** https://tryhackme.com/room/owasptopten2025two  
 **Difficulty:** Easy  
-**Estimated Time:** 30 minutes  
 **Series:** OWASP Top 10 2025 — Room 2  
 **Status:** ✅ Completed
 
@@ -80,4 +79,4 @@ This room covers four OWASP Top 10 2025 categories that all stem from the same r
 
 ---
 
-*Notes written for IT job portfolio — Tokyo, Japan*
+*Notes written for portfolio*
