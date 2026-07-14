@@ -1,8 +1,7 @@
 # Room 02 — Sudo Buffer Overflow
 **Platform:** TryHackMe  
 **URL:** https://tryhackme.com/room/sudovulnsbof  
-**Difficulty:** Info (Introductory)  
-**Estimated Time:** 30 minutes  
+**Difficulty:** Info (Introductory)   
 **Series:** SudoVulns Series — Room 2  
 **Status:** ✅ Completed
 
@@ -15,12 +14,12 @@ This room focuses on **CVE-2019-18634**, a buffer overflow vulnerability in the 
 
 ## Key Concepts Covered
 
-### 1. What is `pwfeedback`?
+### 1. What is `pwfeedback`
 - A cosmetic option in `/etc/sudoers` that displays asterisks (`*`) as you type your password
 - Disabled by default on most distros, but was **enabled by default** on ElementaryOS and Linux Mint
 - When enabled, it opens the door for a buffer overflow attack on the `sudo` password input
 
-### 2. What is a Buffer Overflow?
+### 2. What is a Buffer Overflow
 - Programs store user input in a fixed-size memory buffer
 - If more data is supplied than the buffer can hold, it **spills into adjacent memory**, overwriting it
 - An attacker can carefully craft this overflow to inject malicious code or redirect execution
@@ -80,4 +79,4 @@ This room focuses on **CVE-2019-18634**, a buffer overflow vulnerability in the 
 
 ---
 
-*Notes written for IT job portfolio — Tokyo, Japan*
+*Notes written for IT job portfolio*
