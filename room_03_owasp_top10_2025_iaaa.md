@@ -2,7 +2,6 @@
 **Platform:** TryHackMe  
 **URL:** https://tryhackme.com/room/owasptopten2025one  
 **Difficulty:** Easy  
-**Estimated Time:** 30 minutes  
 **Series:** OWASP Top 10 2025 — Room 1  
 **Status:** ✅ Completed
 
@@ -87,4 +86,4 @@ The IAAA framework describes the four sequential layers of user verification in 
 
 ---
 
-*Notes written for IT job portfolio — Tokyo, Japan*
+*Notes written for portfolio*
